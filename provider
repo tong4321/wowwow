@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgmMRxr.png" group-title="DE ✦ DEUTSCHLAND",✦●✦ DEUTSCHLAND ✦●✦
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1233&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4meIyfc.png" group-title="DE ✦ DEUTSCHLAND",ARD ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1234&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tDaGvUD.png" group-title="DE ✦ DEUTSCHLAND",ARD ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1235&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJPXkHO.png" group-title="DE ✦ DEUTSCHLAND",ZDF ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1236&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sD8a25G.png" group-title="DE ✦ DEUTSCHLAND",ZDF ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1237&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qt8qqNc.png" group-title="DE ✦ DEUTSCHLAND",RTL ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1238&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kCZJjJ2.png" group-title="DE ✦ DEUTSCHLAND",RTL ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1239&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pp2wGV8.png" group-title="DE ✦ DEUTSCHLAND",RTL ZWEI ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1240&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ojjgy7O.png" group-title="DE ✦ DEUTSCHLAND",RTL ZWEI ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1241&extension=ts
+#EXTINF:-1 tvg-logo="https://excpicon.cfd/pars/de/deutschland/sat1fhd.png" group-title="DE ✦ DEUTSCHLAND",SAT.1 ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1242&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mgR4PCq.png" group-title="DE ✦ DEUTSCHLAND",SAT.1 ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1243&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tDabFeM.png" group-title="DE ✦ DEUTSCHLAND",PROSIEBEN ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1244&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VL3ocSJ.png" group-title="DE ✦ DEUTSCHLAND",PROSIEBEN ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1245&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbAysD3.png" group-title="DE ✦ DEUTSCHLAND",PROSIEBEN MAXX ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=401502&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfZpOg7.png" group-title="DE ✦ DEUTSCHLAND",PROSIEBEN MAXX ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1247&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JCw2EFs.png" group-title="DE ✦ DEUTSCHLAND",PROSIEBEN FUN ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1248&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohLqXAy.png" group-title="DE ✦ DEUTSCHLAND",PROSIEBEN FUN ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1249&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MGgnJuu.png" group-title="DE ✦ DEUTSCHLAND",VOX ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1255&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5UqYZY.png" group-title="DE ✦ DEUTSCHLAND",VOX ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1256&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OLkHbC8.png" group-title="DE ✦ DEUTSCHLAND",VOXUP ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=195206&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ha7RzUn.png" group-title="DE ✦ DEUTSCHLAND",VOXUP ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1257&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lAjrgeq.png" group-title="DE ✦ DEUTSCHLAND",TV NOW ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=127565&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upAVrHi.png" group-title="DE ✦ DEUTSCHLAND",TV NOW ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=127564&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k0MUTP8.png" group-title="DE ✦ DEUTSCHLAND",RTL CRIME ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1250&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uYGh6hJ.png" group-title="DE ✦ DEUTSCHLAND",RTL CRIME ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1251&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rbMLo9S.png" group-title="DE ✦ DEUTSCHLAND",SAT.1 GOLD ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1252&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zf16nUk.png" group-title="DE ✦ DEUTSCHLAND",SAT.1 GOLD ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1253&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1L5Akf.png" group-title="DE ✦ DEUTSCHLAND",SAT.1 EMOTIONS ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1254&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVuWL2O.png" group-title="DE ✦ DEUTSCHLAND",SAT.1 EMOTIONS ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=147950&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EvQzv3t.png" group-title="DE ✦ DEUTSCHLAND",KABEL EINS ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1258&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W21IsBM.png" group-title="DE ✦ DEUTSCHLAND",KABEL EINS ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1259&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06ymEZd.png" group-title="DE ✦ DEUTSCHLAND",KABEL EINS CLASSICS ʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1260&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ur2Rkt4.png" group-title="DE ✦ DEUTSCHLAND",KABEL EINS CLASSICS ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1261&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKEFmZI.png" group-title="DE ✦ DEUTSCHLAND",KABEL EINS DOKU ᶠʰᵈ
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:10:E0:6E&stream=1262&extension=ts
